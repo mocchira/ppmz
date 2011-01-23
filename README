@@ -1,0 +1,7 @@
+-description
+php process group management by zookeeper
+-requirements
+--java1.6
+--zookeeper, libzookeeper (http://www.apache.org/dyn/closer.cgi/hadoop/zookeeper/)
+--php5.2 or later (http://php.net/downloads.php)
+--php-zookeeper (https://github.com/andreiz/php-zookeeper)
